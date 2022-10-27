@@ -13,17 +13,17 @@
 	Bình luận cho Fx Ngọc Bảo	</title>
 	<atom:link href="http://localhost/myproject/nhaccu/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://fxngocbao.github.io/KtgkWp</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>&#34; Nỗi đau mà tình yêu mang lại không thể diễn tả bằng lời nói chỉ có thể “nhờ” âm nhạc nói lên nỗi lòng mình.&#34;</description>
 	<lastBuildDate>Thu, 20 Oct 2022 07:21:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://fxngocbao.github.io/KtgkWp/2022/10/20/chao-moi-nguoi/#comment-1</link>
+		<link>https://fxngocbao.github.io/KtgkWp/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Thu, 20 Oct 2022 07:21:39 +0000</pubDate>

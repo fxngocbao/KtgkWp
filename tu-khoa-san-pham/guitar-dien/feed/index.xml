@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>guitar điện &#8211; Fx Ngọc Bảo</title>
+	<atom:link href="http://localhost/myproject/nhaccu/tu-khoa-san-pham/guitar-dien/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fxngocbao.github.io/KtgkWp</link>
+	<description>&#34; Nỗi đau mà tình yêu mang lại không thể diễn tả bằng lời nói chỉ có thể “nhờ” âm nhạc nói lên nỗi lòng mình.&#34;</description>
+	<lastBuildDate>Wed, 26 Oct 2022 01:40:57 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Guitar Bass Điện Yamaha TRBX174</title>
+		<link>https://fxngocbao.github.io/KtgkWp/san-pham/guitar-bass-dien-yamaha-trbx174/</link>
+					<comments>https://fxngocbao.github.io/KtgkWp/san-pham/guitar-bass-dien-yamaha-trbx174/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenngocbao]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 01:40:56 +0000</pubDate>
+				<guid isPermaLink="false">https://fxngocbao.github.io/KtgkWp/?post_type=product&#038;p=125</guid>
+
+					<description><![CDATA[Có thân gỗ gụ được tạo hình chắc chắn với thiết kế 3D tối ưu hoá để cân bằng tối ưu giữa tông và sự thoải mái cùng sự phân bố trọng lượng hoàn hảo. Thiết kế cần đàn TRBX kết hợp được sự thoải mái với kết cấu 5 lớp gỗ gụ/gỗ phong để có sự ổn định cao và tông chuẩn. Ngựa đàn đúc truyền độ rung của dây tới thân để tạo ra các âm thanh có tông dày và đầy đặn với khả năng điều chỉnh cao cùng độ bền đã được kiểm tra. Khoảng cách 18mm giữa 5 giây cho phép người chơi có thể vỗ hoặc gảy.]]></description>
+										<content:encoded><![CDATA[<p>Có thân gỗ gụ được tạo hình chắc chắn với thiết kế 3D tối ưu hoá để cân bằng tối ưu giữa tông và sự thoải mái cùng sự phân bố trọng lượng hoàn hảo. Thiết kế cần đàn TRBX kết hợp được sự thoải mái với kết cấu 5 lớp gỗ gụ/gỗ phong để có sự ổn định cao và tông chuẩn. Ngựa đàn đúc truyền độ rung của dây tới thân để tạo ra các âm thanh có tông dày và đầy đặn với khả năng điều chỉnh cao cùng độ bền đã được kiểm tra. Khoảng cách 18mm giữa 5 giây cho phép người chơi có thể vỗ hoặc gảy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://fxngocbao.github.io/KtgkWp/san-pham/guitar-bass-dien-yamaha-trbx174/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

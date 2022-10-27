@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>dj &#8211; Fx Ngọc Bảo</title>
+	<atom:link href="http://localhost/myproject/nhaccu/tu-khoa-san-pham/dj/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fxngocbao.github.io/KtgkWp</link>
+	<description>&#34; Nỗi đau mà tình yêu mang lại không thể diễn tả bằng lời nói chỉ có thể “nhờ” âm nhạc nói lên nỗi lòng mình.&#34;</description>
+	<lastBuildDate>Wed, 26 Oct 2022 11:58:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Pioneer DJ XDJ</title>
+		<link>https://fxngocbao.github.io/KtgkWp/san-pham/pioneer-dj-xdj/</link>
+					<comments>https://fxngocbao.github.io/KtgkWp/san-pham/pioneer-dj-xdj/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenngocbao]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 11:58:52 +0000</pubDate>
+				<guid isPermaLink="false">https://fxngocbao.github.io/KtgkWp/?post_type=product&#038;p=127</guid>
+
+					<description><![CDATA[Đáp lại mong mỏi của các DJ và nghệ sĩ âm nhạc, Pioneer DJ đã ra mắt phiên bản tiến hóa hiện đại nhất của XDJ all-in-one series. Hệ thống DJ độc lập 2 kênh mới nhất của Pioneer DJ chính thức trình làng với những tính năng nổi bật: Màn hình màu cảm ứng 10.1 inch Màn hình LCD trên Jog Wheel ở giữa để cho biết vị trí đã phát của một bản nhạc, cùng với sự cải thiện về độ nhạy của mâm xoay Tất cả các FX từ phiên bản tiền nhiệm, cộng thêm 6 Beat FX và 2 Sound Color FX bổ sung]]></description>
+										<content:encoded><![CDATA[<p>Đáp lại mong mỏi của các DJ và nghệ sĩ âm nhạc, Pioneer DJ đã ra mắt phiên bản tiến hóa hiện đại nhất của XDJ all-in-one series. Hệ thống DJ độc lập 2 kênh mới nhất của Pioneer DJ chính thức trình làng với những tính năng nổi bật: Màn hình màu cảm ứng 10.1 inch Màn hình LCD trên Jog Wheel ở giữa để cho biết vị trí đã phát của một bản nhạc, cùng với sự cải thiện về độ nhạy của mâm xoay Tất cả các FX từ phiên bản tiền nhiệm, cộng thêm 6 Beat FX và 2 Sound Color FX bổ sung.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://fxngocbao.github.io/KtgkWp/san-pham/pioneer-dj-xdj/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
