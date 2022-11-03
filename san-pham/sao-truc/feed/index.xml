@@ -14,11 +14,11 @@
 	<atom:link href="http://localhost/myproject/nhaccu/san-pham/sao-truc/feed/" rel="self" type="application/rss+xml" />
 	<link>https://fxngocbao.github.io/KtgkWp/san-pham/sao-truc/</link>
 	<description>&#34; Nỗi đau mà tình yêu mang lại không thể diễn tả bằng lời nói chỉ có thể “nhờ” âm nhạc nói lên nỗi lòng mình.&#34;</description>
-	<lastBuildDate>Tue, 25 Oct 2022 13:55:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Nov 2022 06:07:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
